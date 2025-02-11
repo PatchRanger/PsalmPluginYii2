@@ -1,5 +1,5 @@
 {
-    "name": "magdv/psalm-plugin-yii2",
+    "name": "patchranger/psalm-plugin-yii2",
     "description": "Psalm plugin for a better typed yii2 application",
     "type": "psalm-plugin",
     "replace": {
